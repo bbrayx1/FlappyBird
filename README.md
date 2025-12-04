@@ -50,7 +50,7 @@ El proyecto consta de tres clases principales y una carpeta de recursos:
 
 ```text
 📦 FlappyBird-Project
- ┣ 📂 resources          <-- ¡IMPORTANTE! Aquí van tus imágenes
+ ┣ 📂 resources          
  ┃ ┣ 📜 bird-yellow.png
  ┃ ┣ 📜 bird-skyblue.png
  ┃ ┣ 📜 bg-day.png
