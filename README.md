@@ -8,6 +8,33 @@ Un clon del clásico Flappy Bird desarrollado en **Java** utilizando la librerí
 |:---:|:---:|:---:|
 | ![Dia](resources/bg-day.png) | ![Noche](resources/bg-night.png) | ![Navidad](resources/bg-christmas.png) |
 
+## 🎨 Personalización y Skins
+
+¡Puedes cambiar la apariencia del juego sin modificar el código principal! El proyecto utiliza un archivo central de configuración.
+
+Para cambiar los gráficos (skins), sigue estos pasos:
+
+1.  Abre el archivo `Configuracion.java`.
+2.  Busca la sección comentada como `// 2. PERSONALIZACIÓN VISUAL`.
+3.  Cambia los valores de las variables por las opciones disponibles en la carpeta `resources`.
+
+### Ejemplo: Activar el Modo Navideño
+
+Si quieres cambiar el fondo a Navidad y usar el pájaro azul, modifica el código así (en ingles):
+
+```java
+public class Configuracion {
+    // ...
+    
+    // Cambia "yellow" por "skyblue" - pondras el pajaro en celeste
+    public static String BIRD_SKIN = "blue"; 
+    
+    // Cambia "day" por "christmas" para el modo navideño
+    public static String BACKGROUND_SKIN = "christmas"; 
+    
+    // ...
+}
+```
 ## ✨ Características Principales
 
 * **☕ Java Puro:** Sin librerías externas pesadas, solo Java Swing y AWT.
