@@ -27,7 +27,7 @@ public class Configuracion {
     // ...
     
     // Cambia "yellow" por "skyblue" - pondras el pajaro en celeste
-    public static String BIRD_SKIN = "blue"; 
+    public static String BIRD_SKIN = "skyblue"; 
     
     // Cambia "day" por "christmas" para el modo navideño
     public static String BACKGROUND_SKIN = "christmas"; 
