@@ -52,7 +52,7 @@ El proyecto consta de tres clases principales y una carpeta de recursos:
 📦 FlappyBird-Project
  ┣ 📂 resources          <-- ¡IMPORTANTE! Aquí van tus imágenes
  ┃ ┣ 📜 bird-yellow.png
- ┃ ┣ 📜 bird-blue.png
+ ┃ ┣ 📜 bird-skyblue.png
  ┃ ┣ 📜 bg-day.png
  ┃ ┣ 📜 bg-christmas.png
  ┃ ┗ 📜 ... (otros assets)
