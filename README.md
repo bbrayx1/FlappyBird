@@ -20,7 +20,7 @@ Para cambiar los gráficos (skins), sigue estos pasos:
 
 ### Ejemplo: Activar el Modo Navideño
 
-Si quieres cambiar el fondo a Navidad y usar el pájaro azul, modifica el código así (en ingles):
+Si quieres cambiar el fondo a Navidad y usar el pájaro celeste, modifica el código así (en ingles):
 
 ```java
 public class Configuracion {
